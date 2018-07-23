@@ -1,3 +1,5 @@
-Public class Person {
+package com.homestay.beans;
+
+public class Person {
 	private int age;
 }
